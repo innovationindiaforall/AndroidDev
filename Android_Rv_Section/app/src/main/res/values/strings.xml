@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Section RV</string>
+    <string name="linear_section_rv_vertical">Linear Section RV (Vertical)</string>
+    <string name="linear_section_rv_horizontal">Linear Sectioned RecyclerView (Horizontal)</string>
+    <string name="grid_section_rv">Grid Sectioned RecyclerView</string>
+    <string name="show_all">Show All</string>
+</resources>
