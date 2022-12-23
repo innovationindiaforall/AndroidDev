@@ -8,7 +8,7 @@ Fetching Data from Assets File and Loading in Section Custom Recyclerview with S
 Requirement:
 Developing Section Recyclerview with Search Functionality Features.
 ----------------------------------------------------------------------------------------------------
-Steps:
+Steps for Initialization to kickstart below:
 ----------------------------------------------------------------------------------------------------
 we are using mainactivity page with Recyclerview
 
