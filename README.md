@@ -1,3 +1,3 @@
 # AndroidDev
 
-Section Recyclerview with Search Functionality
+Section Custom Recyclerview with Search Functionality
